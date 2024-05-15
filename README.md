@@ -31,10 +31,10 @@ Use GridSearchCV to tune hyperparameters and find the best-performing model base
 Export the trained model (Linear Regression in this case) for deployment or future use.
 
 ## Libraries Used 
-.NumPy
-.pandas
-.matplotlib
-.scikit-learn
+NumPy
+pandas
+matplotlib
+scikit-learn
 ## Results 
 The Linear Regression model achieved an accuracy of over 80%, outperforming Lasso Regression and Decision Tree Regression.
 Detailed results and evaluation metrics can be found in the project notebook.
