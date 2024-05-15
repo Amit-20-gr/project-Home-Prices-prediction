@@ -1,6 +1,6 @@
 # project: Home Prices prediction
 ## Overview
-This project focuses on predicting house prices in Bangalore based on historical house prices data. It involves several steps including data loading, data preprocessing, model building, and model evaluation. 
+This project focuses on predicting house prices in [Bangalore house prices data](https://github.com/Amit-20-gr/project-Home-Prices-prediction/blob/main/bengaluru_house_prices.csv). It involves several steps including data loading, data preprocessing, model building, and model evaluation. 
 ## Goals
 Predict house prices accurately based on features such as square footage, number of bathrooms, number of bedrooms, and location.
 Implement various machine learning algorithms to find the best-performing model.
